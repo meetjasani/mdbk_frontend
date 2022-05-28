@@ -1,0 +1,116 @@
+.userprofilesectop {
+  float: left;
+  width: 100%;
+  background-color: #FFFFFF;
+  border-radius: 15px 15px 0 0;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+.p {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #16181C;
+  padding-top: 20px;
+}
+
+.heading {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 36px;
+  color: #16181C;
+}
+
+.label {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 36px;
+  color: #16181C;
+}
+
+.labelright {
+  font-family: SpoqaHanSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #16181C;
+  float: right;
+}
+
+.lstbtn {
+  font-family: SpoqaHanSansbold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #9A9A9A;
+  background: #FFFFFF;
+  border-radius: 20px;
+  min-width: 50%;
+  height: 68px;
+  float: none;
+  display: table;
+  margin: 0 auto;
+}
+
+.topbtn{
+  height: 50px;
+background: #00D6E3;
+border-color: #00D6E3;
+border-radius: 10px;
+float: right;
+font-family: SpoqaHanSansbold;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+color: #FFFFFF;
+width: 20%;
+}
+
+.h2{
+  font-family: SpoqaHanSans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+color: #9A9A9A;
+padding-top: 5px;
+}
+
+.twobtn{
+  height: 60px;
+  width: 100%;
+  border: 1px solid #D1D1D1;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 100px;
+  font-family: SpoqaHanSansbold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #16181C;
+  float: left;
+  text-align: center;
+}
+
+.graybtnstyl{
+  font-family: SpoqaHanSans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+color: #9A9A9A;
+height: 44px;
+background-color: #FAFAFA;
+border-radius: 100px;
+margin: 5px 5px 5px 5px;
+}

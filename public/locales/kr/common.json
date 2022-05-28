@@ -1,0 +1,471 @@
+{
+  "header": {
+    "searchSideCharacter": "부캐찾기",
+    "project": "프로젝트",
+    "forum": "지식톡",
+    "bCoin": "B캐시 안내",
+    "nickName": "열정맨",
+    "client": "고객님",
+    "switchSideCharac": "부캐로 전환"
+  },
+  "index": {
+    "heading": "회원가입",
+    "formItem1": {
+      "labelName": "이름",
+      "placeholderName": "이름 입력",
+      "labelEmail": "이메일 주소",
+      "placeholderEmail": "이메일 주소 입력",
+      "labelPassword": "비밀번호",
+      "labelPassword1": "비밀번호는 6자리 이상의 영문, 숫자, 특수문자로 설정해주세요.",
+      "placeholderPassword": "비밀번호 입력",
+      "labelConfirmPassword": "비밀번호 확인",
+      "placeholderConfirmPassword": "비밀번호 확인",
+      "nameRequired": "필수 정보입니다.",
+      "checkEmail": "이메일 주소를 다시 확인해 주세요.",
+      "checkPassword": "비밀번호를 한번 더 확인해주세요.",
+      "passwordNotMatch": "비밀번호가 일치하지 않습니다.",
+      "usePropercharacters": "한글과 영문을 사용합니다.",
+      "emailAlreadyExist": "이미 등록된 이메일입니다."
+    },
+    "dropdown": {
+      "val1": "부캐 찾기",
+      "val2": "함께 할 부캐를 찾아보세요.",
+      "val3": "고객 찾기",
+      "val4": "함께 할 고객을 찾아보세요.",
+      "val5": "프로젝트 찾기",
+      "val6": "함께 할 프로젝트를 찾아보세요."
+    },
+    "postDropdown": {
+      "val1": "부캐 등록",
+      "val2": "부캐 등록하고 자신의 경력을 어필하세요",
+      "val3": "고객 등록",
+      "val4": "고객 등록하고 구인하세요",
+      "val5": "프로젝트 등록",
+      "val6": "프로젝트 등록하고 함께 할 부캐를 찾으세요"
+    },
+    "formItem2": {
+      "label": "Email Address",
+      "placeholder": "Enter Email Address"
+    },
+    "tab1": {
+      "labelClient": "Client",
+      "subTitle": "고객으로 가입"
+    },
+    "tab2": {
+      "labelClient": "Side Character",
+      "subTitle": "부캐로 가입"
+    },
+    "formEndContent1": "여러분의 지원 활동은 SNS에 노출되지 않습니다.",
+    "formEndContent2": {
+      "sp1": " 회원가입 시 ",
+      "sp2": " 개인정보 처리방침과 ",
+      "sp3": " 이용약관을 확인하였으며, 동의합니다."
+    },
+    "footer": "Copyright © MOODOOBK. ALL RIGHTS RESERVED."
+  },
+  "login": {
+    "heading": "시작하기",
+    "emailLabel": "이메일 주소",
+    "emailPlaceholder": "이메일 주소 입력",
+    "emailErrorMessage": "이메일 주소를 한번 더 확인해주세요.",
+    "saveButton": "이메일로 시작하기",
+    "googleText": "구글로 시작하기",
+    "facebookText": "페이스북으로 시작하기",
+    "navertext": "네이버로 시작하기",
+    "talkText": "카카오로 시작하기",
+    "appleText": "애플로 시작하기"
+  },
+  "emailvarify": {
+    "verifyEmail": "이메일 인증",
+    "verifyEmailMsg": "서비스 이용을 위해 이메일 인증을 해주세요.",
+    "emailAddress": "이메일 주소",
+    "saveButton": "인증 이메일 전송"
+  },
+  "emailConfirm": {
+    "verificationCode": "인증번호",
+    "verificationCodePlaceholder": "인증번호 입력",
+    "blueMsg": "메일에서 복사한 인증번호를 입력해주세요.",
+    "codeIncorrect": "인증번호가 올바르지 않습니다.",
+    "saveButton": "이메일 인증 완료",
+    "popUpTitle": "이메일 인증 완료",
+    "popUpContent": "이메일 인증이 완료되었습니다.",
+    "popUpButton": "확인"
+  },
+  "changePwd": {
+    "login": "로그인",
+    "password": "비밀번호",
+    "passwordPlaceholder": "비밀번호 입력",
+    "resetPassword": "비밀번호 초기화 ∙ 변경",
+    "passwordConfirmation": "비밀번호를 한번 더 확인해주세요"
+  },
+  "resetPwd": {
+    "resetPassword": "비밀번호 초기화/변경",
+    "emailPlaceholder": "이메일 주소 입력",
+    "emailLinkMsg": "가입한 이메일 주소로 비밀번호 재설정 링크를 전송해드립니다.",
+    "sendButton": "재설정 링크 전송",
+    "mailConfirmation": "이메일 주소를 다시 확인해 주세요.",
+    "passwordResetLink": "이메일로 비밀번호 재설정 링크를 전송했습니다.",
+    "resetPasswordMsg": "이메일 확인 후 비밀번호를 재설정 해주세요!",
+    "confirm": "확인",
+    "welcome": "환영합니다!",
+    "popUpTitle": "회원가입이 완료되었습니다.",
+    "bonusMsg": "지금 바로 프로필 입력을 80% 완료하시면 보너스 캐시를",
+    "completeProfileMsg": "무료로 지급해 드립니다! 프로필을 완성하고 나를 어필하세요!",
+    "saveButton": "프로필 등록하러 가기"
+  },
+  "proposalDeletion": {
+    "title": "제안 삭제",
+    "description": "제안을 정말로 삭제하시겠습니까?",
+    "yes": "예",
+    "no": "아니요"
+  },
+  "ptojectPostCompletePopup": {
+    "title": "프로젝트 게시물 완료",
+    "description": "프로젝트 게시를 완료했습니다. 더 재능있는 사람들과 다른 프로젝트를 수행할 수 있습니다!"
+  },
+  "projectEditingCompletePopup": {
+    "title": "프로젝트 편집 완료",
+    "decription": "프로젝트 편집을 완료했습니다."
+  },
+  "projectPostcollectionPopup": {
+    "title": "프로젝트 포스트 취소",
+    "description": "이 페이지에서 나가시겠습니까?"
+  },
+  "bCoinPurchasePopup": {
+    "title": "B-Coin 구매",
+    "subTitle": "이 서비스는 B-coin을 구매한 후 사용할 수 있습니다.",
+    "subTitle1": "B-coin을 구매하고 더 많은 서비스를 이용하세요! :)",
+    "buttonTitle": "B-코인 구매"
+  },
+  "paymentCompletePopup": {
+    "title": "결제 완료",
+    "subTitle": "결제 완료되었습니다!",
+    "subTitle1": "결제내역을 확인하세요.",
+    "buttonTitle": "확인하다"
+  },
+  "myInfoPageComplete": {
+    "title": "정보 변경 완료",
+    "subTitle": "정보가 변경되었습니다."
+  },
+  "myPageAccountDeletion": {
+    "title": "계정 삭제",
+    "subTitle": "계정을 삭제하면 모든 정보도 삭제됩니다.",
+    "subTitle1": "여전히 계정을 삭제하시겠습니까?"
+  },
+  "logout": {
+    "title": "로그 아웃",
+    "subTitle": "정말 로그아웃하시겠습니까?"
+  },
+  "formQuestionPop": {
+    "title": "프로필을 만들어주세요",
+    "subTitle": "포럼에 표시될 프로필을 작성한 후 질문을 게시하세요!",
+    "buttonTitle": "프로필 만들기로 이동"
+  },
+  "formQuestionPostPop": {
+    "title": "포럼 질문 게시 완료",
+    "subTitle": "귀하의 질문이 포럼에 게시되었습니다."
+  },
+  "formQuestionDeletePop": {
+    "title": "삭제하시겠습니까?",
+    "subTitle": "질문을 삭제하시겠습니까?"
+  },
+  "formQuestionEditPop": {
+    "title": "편집 완료",
+    "subTitle": "질문이 수정되었습니다."
+  },
+  "projectAppCompletePop": {
+    "title": "프로젝트 신청 완료",
+    "subTitle": "프로젝트 신청을 완료했습니다."
+  },
+  "notEnougnBcoin": {
+    "title": "B-코인이 충분하지 않습니다.",
+    "subTitle": "B코인이 부족합니다! B-coin 구매 후 다시 시도해주세요! :)"
+  },
+  "requestCompletePop": {
+    "title": "요청 완료",
+    "subTitle": "인터뷰를 성공적으로 요청하셨습니다."
+  },
+  "phoneNumberVerificationPop": {
+    "title": "확인된 전화번호",
+    "subTitle": "전화번호가 확인되었습니다."
+  },
+  "profileRegisterCompletePop": {
+    "title": "프로필 등록 완료",
+    "subTitle": "프로필 등록이 완료되었습니다. 80% 이상 완료하고 보너스 B-코인을 받으세요!"
+  },
+  "paymentPop": {
+    "title": "지불",
+    "date": "시작 2년",
+    "coin": "동전",
+    "won": "이겼다",
+    "pay": "40,000원 ​​지불"
+  },
+  "home": {
+    "search": "찾기",
+    "post": "등록",
+    "forum": "지식톡",
+    "bcoin": "B캐시 안내",
+    "start": "로그인",
+    "heading": "Heading",
+    "staff": "주중엔 선임, 주말엔 CTO",
+    "first": {
+      "para1": "회사 업무 아닌 나만의 일을 ",
+      "para1a": " 퇴근 후에 하고 싶으세요?",
+      "para2": " 일하고 싶은 요일, 시간, 채용 형태를 설정하고",
+      "para2a": "마음 맞는 동료와 함께 하세요."
+    },
+    "second": {
+      "para1": "업무에 관해 궁금한게 많으세요?",
+      "para2": "전문가에게 자유롭게 질문하고 자유롭게 답변하세요!",
+      "para3": "지식톡가기",
+      "para4": "Talk"
+    },
+    "third": {
+      "para1": "Profile",
+      "para2": "어떻게하면 나를 다른사람에게 매력있게 어필할 수 있을까?",
+      "para3": "다른사람에게 나를 매력있게 어필하고 좋은 인재들과 만나고 싶으세요?",
+      "para4": "프로필 등록하기"
+    },
+    "forth": {
+      "para1": "Project",
+      "para2": "어떻게 하면 좋은 인재들과 함께 협업할 수 있을까?",
+      "para3": "흥미로운 프로젝트를 좋은 인재들과 함께 협업하고 싶으시다면 이곳에서!",
+      "para4": "프로젝트 등록하기"
+    },
+    "footer": {
+      "para1": "이용약관",
+      "para2": "최고 경영자",
+      "para3": "홈페이지",
+      "para4": "개인정보 처리방침",
+      "para5": "사업자등록번호",
+      "para6": "제휴문의",
+      "para7": "Email",
+      "para8": "고객센터",
+      "para9": "주소",
+      "para1a": "Copyright © MOODOOBK. ALL RIGHTS RESERVED."
+    }
+  },
+  "search": {
+    "arr": [
+      {
+        "label": "직종",
+        "value": "개발"
+      },
+      {
+        "label": "분야",
+        "value": "IT/웹개발/웹서비스기획"
+      },
+      {
+        "label": "지역",
+        "value": "서울시 양천구"
+      },
+      {
+        "label": "희망일자",
+        "value": "주중/주말"
+      },
+      {
+        "label": "희망시간",
+        "value": "저녁"
+      },
+      {
+        "label": "희망형태",
+        "value": "단기 프로젝트(3개월 미만)"
+      },
+      {
+        "label": "4대보험",
+        "value": "필요"
+      },
+      {
+        "label": "근무형태",
+        "value": "상주"
+      }
+    ],
+    "sideChar": "부캐찾기",
+    "searchClient": "고객찾기",
+    "passion": "열정맨",
+    "switch": "부캐로 전환",
+    "bonus": " 프로필 등록 80% 이상 완료하면 보너스캐시 지급!",
+    "findChar": "부캐를 찾으세요",
+    "dev": "개발",
+    "rcvreq": "받은요청",
+    "sentreq": "보낸요청",
+    "myLike": "나의찜목록",
+    "searchOp": "찾기옵션 설정",
+    "nickName": "개발왕",
+    "exp1": "∙ 경력 9년",
+    "exp2": "∙ 경력 7년 10개월",
+    "exp3": "∙ 신입",
+    "detail": "상세정보 보기",
+    "reqcon": "연락처",
+    "info": "요청",
+    "p1": "안녕하세요. 경력 9년차인 개발자입니다! 함께 열심히 일하실 분을 애타게 찾고 있습니다 :) ",
+    "workexp": "경력",
+    "end": "퍼스트바이크 대리 1년",
+    "more": "더보기",
+    "dropdown": {
+      "val1": "전체",
+      "val2": "개발",
+      "val3": "디자인",
+      "val4": "마케팅",
+      "val5": "기타"
+    },
+    "pageName": "검색",
+    "lastSeen": "1시간 전",
+    "sideCharacterBeforeLogin": {
+      "postSideCharac": "부캐 등록하기"
+    },
+    "clientbeforeLogin": {
+      "findClient": "고객을 찾으세요",
+      "postClient": "고객 등록하기",
+      "individual": "회원",
+      "company": "기업"
+    },
+    "projectBeforeLogin": {
+      "findProject": "프로젝트를 찾으세요",
+      "postProject": "프로젝트 등록하기"
+    }
+  },
+  "project": {
+    "myProject": "나의 프로젝트",
+    "IT/webService": "IT/웹기획/웹서비스기획",
+    "seeMyProposal": "내 제안서 보기",
+    "projectApp": "프로젝트 지원서"
+  },
+  "bCoin": {
+    "purchaseBcoin": "B캐시를 구매하세요",
+    "coins": " 캐시",
+    "won": "원",
+    "notice": "필수 유의사항",
+    "list1": "B캐시 구매 시 2년 내에 모두 사용하셔야 합니다.",
+    "list2": "2년이 지난 B캐시는 자동 소멸됩니다.",
+    "list3": "한 번 구매하신 B캐시는 환불이 불가합니다."
+  },
+  "myPages": {
+    "title": "마이페이지",
+    "name": "이모아",
+    "ItKing": "열정맨",
+    "email": "joony@gmail.com",
+    "bCoinstore": "B캐시 안내",
+    "purchasehistory": "충전/사용 내역",
+    "notificationSetting": "알림 설정",
+    "languageSetting": "언어 설정",
+    "button": "10,000 캐시 보유",
+    "korean": "한글",
+    "infosetting": "정보설정",
+    "labelName": "이름",
+    "save": "저장하기",
+    "deleteAcc": "회원탈퇴",
+    "interviewReq": "인터뷰 요청하기",
+    "bCoinPurchase": "B캐시 충전",
+    "bCoinOwn": "보유한 B캐시",
+    "bonusbcoin": "보너스 B캐시",
+    "notification": "알림"
+  },
+  "notificationPage": {
+    "answeredQuestion": "지식톡에 답변이 달렸습니다.",
+    "requestedInterview": "인터뷰 요청을 받았습니다."
+  },
+  "searchFormSidecharacter": {
+    "desiredClient": "희망 고객은 무엇인가요?"
+  },
+  "clientProfile": {
+    "requiredField": "필수항목",
+    "clientProfileStep1": {
+      "enterProfile": "프로필을 등록하세요",
+      "nickNameLabel": "닉네임을 입력하세요",
+      "introductionLabel": "소개를 입력해주세요",
+      "contactLabel": "연락처 정보 입력",
+      "codeButton": "인증 코드 보내기",
+      "codeLabel": "핸드폰 번호를 입력해주세요.",
+      "codeMsg":"인증 코드가 전송되었습니다",
+      "invalidCodeMsg":"잘못된 인증 코드를 입력했습니다.",
+      "professionLabel": "직종은 무엇인가요?",
+      "fieldLabel": "분야는 무엇인가요?",
+      "fieldPlaceholder": "분야 입력",
+      "locationLabel": "지역이 어디인가요?",
+      "CityLabel": "시/도",
+      "countyLabel": "시/군/구",
+      "homepageLabel": "홈페이지 링크를 입력해주세요",
+      "homepageURL": "홈페이지 URL 입력",
+      "fbLabel": "페이스북 링크를 입력해주세요",
+      "fbURL": "페이스북 URL 입력",
+      "instaLabel": "인스타그램 링크를 입력해주세요",
+      "instaURL": "인스타그램 URL 입력",
+      "otherLabel": "기타 링크를 입력해주세요",
+      "otherURL": "인스타그램 URL 입력",
+      "imageLabel": "소개 이미지를 등록해주세요",
+      "less10": "10MB 이하 ",
+      "fileFormat": " 파일형식",
+      "verify":"인증번호 전송",
+      "multipleSelection":"복수선택 가능"
+    },
+    "clientProfileStep2": {
+      "companyInfo": "기업정보를 등록하세요",
+      "uploadImage": "소개 이미지를 등록해주세요",
+      "areYouCompany":"기업이신가요?",
+      "noCompany": "아니오, 기업이 아닙니다.",
+      "yesCompany": "네, 기업입니다.",
+      "companyNameLabel": "기업명은 무엇인가요?",
+      "companyInfoLabel": "기업명 입력 시, 고객을 찾는 부캐에게 기업명으로 보여집니다",
+      "companyPlaceholder": "기업명 입력",
+      "companyIntroLabel": "기업 소개를 입력해주세요",
+      "hashtagLabel": "관련 태그를 입력해주세요",
+      "enterLabel": "등록",
+      "companyProfLabel": "기업 관련 직종은 무엇인가요?",
+      "companyFieldLabel": "기업 관련 분야는 무엇인가요?",
+      "companyFieldLimit": "최대 3개 선택 가능",
+      "companyRegisLabel": "분야 입력",
+      "companyRegisPlaceholder": "사업자등록번호는 무엇인가요?",
+      "companyFoundLabel": "설립연도는 언제인가요?",
+      "companyFoundDate": "설립연도 입력",
+      "companyRepLabel": "대표자명은 무엇인가요?",
+      "companyRepPlaceholder": "대표자명 입력",
+      "companyEmpLabel": "직원수는 몇 명인가요?",
+      "companyEmpPlaceholder": "직원수 입력",
+      "prevBtn": "이전",
+      "nextBtn": "다음"
+    },
+    "clientProfileStep3": {
+      "activityInfo": "활동정보를 등록하세요",
+      "weekdaysLabel": "주중",
+      "weekendLabel": "주말",
+      "morningLabel": "오전",
+      "noonLabel": "오후",
+      "projectLabel": "희망 프로젝트 형태는 무엇인가요?",
+      "longTermLabel": "장기 프로젝트",
+      "more3month":"3개월 이상",
+      "dateLabel": "희망 일자",
+      "avilbleLabel": "4대보험 가능",
+      "insuranceLabel": "4대보험이 가능하신가요?",
+      "unavailable": "4대보험 불가능",
+      "workTypeLabel": "희망 근무 형태는 무엇인가요?",
+      "workHome": "재택",
+      "cmpltBtn": "완료",
+      "weekday/end": "주중/주말",
+      "timeLabel": "희망 시간",
+        "eveLabel": "저녁",
+        "shortTermProject": "단기 프로젝트",
+        "less3Mon":"3개월 미만",
+        "fromOfc": " 상주"
+    }
+  },
+  "sideCharacterProfile":{
+    "workExp":{
+      "Title1":"신입이신가요? 경력이신가요?",
+      "unExp":"신입",
+      "Exp":"경력",
+      "totalExp":"총 경력",
+      "employmentPeriod":"재직기간",
+      "employmentCurrent":"재직중",
+      "position":"직급/직책",
+      "enterPosition":"직종 입력",
+      "profession":"직종",
+      "profPlaceHolder":"직급/직책 입력",
+      "deleteExp":"경력 삭제",
+      "addExp":"경력 추가"
+    }
+  },
+  "giftBox":{
+    "title":"프로필 등록 80% 이상 완료하면 보너스캐시 지급!"
+      }
+}

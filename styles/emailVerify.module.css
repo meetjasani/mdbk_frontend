@@ -1,0 +1,72 @@
+.subheading {
+    background-color: transparent !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #16181C;
+}
+
+.blueMsg {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #00D6E3;
+}
+
+.redMsg {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FF5C00;
+}
+
+.resetPwd {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #16181C;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: transparent;
+    border: transparent;
+    width: 100%;
+}
+
+.forgotPwdLink {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    color: #9A9A9A
+}
+
+.confirmMsg {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #16181C;
+}
+
+.popUptitle{
+    font-family: 'SpoqaHanSansbold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 36px;
+    color: #16181C;
+}
